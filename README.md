@@ -54,7 +54,7 @@ The dashboard enables stakeholders to monitor sales across geographies, analyze 
 ---
 
 ## 📊 Live Report
-👉 [View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzVkYTU4ZjAtNmYzNy00NmZiLTllNmItYTE2YmRiN2I4ODA1IiwidCI6IjIxMDljNmZkLTkxY2QtNDEyYi1iNWQyLTVmMWI2Y2Y0NzY4NSJ9)
+👉 [View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTYyOTc1NzMtZDdhMy00NGIwLWI0MDYtZGQ0YmI5Y2JkYzRhIiwidCI6IjIxMDljNmZkLTkxY2QtNDEyYi1iNWQyLTVmMWI2Y2Y0NzY4NSJ9)
 
 ---
 
