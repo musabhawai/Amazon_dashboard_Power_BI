@@ -1,5 +1,9 @@
 # 📊 Amazon Sales Dashboard using Power BI
 
+## 📊 Live Report
+👉 [View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzk4ZDBmZjktNzJhYS00NTg5LThmN2ItYjFjMWIyZjZkMGI5IiwidCI6IjIxMDljNmZkLTkxY2QtNDEyYi1iNWQyLTVmMWI2Y2Y0NzY4NSJ9&pageName=5a3ee1d38db9e0f44df6)
+
+---
 ## 📖 Project Objective
 Designed and developed an *interactive Amazon sales dashboard* in Power BI to provide *real-time insights into orders, revenue, product performance, and customer engagement*.  
 The dashboard enables stakeholders to monitor sales across geographies, analyze product categories, track order statuses, and make informed business decisions.
@@ -53,10 +57,6 @@ The dashboard enables stakeholders to monitor sales across geographies, analyze 
 
 ---
 
-## 📊 Live Report
-👉 [View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTYyOTc1NzMtZDdhMy00NGIwLWI0MDYtZGQ0YmI5Y2JkYzRhIiwidCI6IjIxMDljNmZkLTkxY2QtNDEyYi1iNWQyLTVmMWI2Y2Y0NzY4NSJ9)
-
----
 
 ## 📄 PDF Preview
 The full exported PDF version of the dashboard is available in this repository:  
